@@ -1,2 +1,1 @@
-# Map_My_WORLD_ROBOT
- implementation of SLAM with RTAB in gazebo using teleop and rviz #ROS
+﻿# Map_My_WORLD_ROBOT implementation of SLAM with RTAB in gazebo using teleop and rviz #ROSthe created databases for mapping:<https://drive.google.com/open?id=1iBjzkwzC0FlNLFTxyXMC5n2YMNzJf0tv>
